@@ -1,7 +1,4 @@
-# Tailwinds UI v3.0.0
+# Tailwinds UI v3.0.0 Components Pro $299 (Include Component Marketing & Application UI & E-commerce) 
 
 ## Recommended
-
-- [JaysUI](https://github.com/jareer12/JaysUI)
-- [TailwindsMarkdown](https://github.com/jareer12/TailwindsMarkdown)
-- [Tailwind Css Templates](https://github.com/jareer12/TailwindsTemplates)
+- [Tailwind Css Templates](https://github.com/v-reza/TailwindsTemplates)
